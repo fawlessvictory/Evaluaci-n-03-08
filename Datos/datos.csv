@@ -1,0 +1,65 @@
+Especie Id;Version;Reino;Division;Clase;Orden;Familia;Genero;Nombre Cientifico;Nombre Comun;Origen;Estado Conservacion;Avance Total
+644;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes australis;Sapo espinudo austral;Nativa;Casi amenazada (NT);50
+34;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes barrioi;Sapo de pecho espinoso de Barrio;Nativa;En Peligro (EN), Rara;50
+5691;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes cantillanensis;Rana de pecho espinoso de Cantillana;Nativa;En Peligro (EN);42
+5392;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes gargola;rana del Catedral;Nativa;En Peligro (EN);40
+645;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes hugoi;Sapo de Hugo;Nativa;Vulnerable (VU);54
+2747;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes igneus;Rana de pecho espinoso de Tolhuaca;Nativa;Vulnerable (VU);59
+646;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes kaweshkari;Rana kaweshkar de pecho espinoso;Nativa;Datos Insuficientes (DD);48
+58;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes laevis;Sapo;Nativa;En peligro crítico (CR);48
+35;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes montanus;Sapo de monte;Nativa;En Peligro (EN), Rara;55
+2813;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes monticola;;Nativa;Casi amenazada (NT);47
+36;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes nodosus;Sapo de pecho espinoso;Nativa;Casi amenazada (NT);62
+2820;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes norae;Rana de pecho espinoso de Oncol;Nativa;En peligro crítico (CR);50
+5393;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes pehuenche;Sapo de pecho espinoso;Nativa;En peligro crítico (CR);56
+37;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes tumultuosus;Sapo de pecho espinoso de la Parva;Nativa;En Peligro (EN), Rara;61
+3034;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes valdiviensis;Rana de pecho espinoso de Cordillera Pelada;Nativa;En Peligro (EN);56
+38;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes vanzolinii;Sapo de pecho espinoso de Vanzolini.;Nativa;En Peligro (EN), Rara;57
+39;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes verrucosus;Sapo de pecho espinoso con verrugas;Nativa;En Peligro (EN);59
+40;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Alsodes;Alsodes vittatus;Sapo de pecho espinoso de Malleco;Nativa;En peligro crítico (CR);51
+2827;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Atelognathus;Atelognathus ceii;Sapo;Nativa;Datos Insuficientes (DD);50
+41;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Atelognathus;Atelognathus grandisonae;Sapo de Puerto Edén;Nativa;Datos Insuficientes (DD);52
+2815;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Atelognathus;Atelognathus salai;Rana de Jeinimeni;Nativa;Datos Insuficientes (DD);53
+647;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Batrachyla;Batrachyla antartandica;Rana jaspeada;Nativa;Preocupación menor (LC);50
+648;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Batrachyla;Batrachyla leptopus;Rana moteada;Nativa;Preocupación menor (LC);51
+649;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Batrachyla;Batrachyla nibaldoi;Rana de antifaz de Bahía Murta;Nativa;Casi amenazada (NT);52
+650;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Batrachyla;Batrachyla taeniata;Rana de ceja;Nativa;;59
+43;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Bufo;Bufo papillosus;Sapo de papilas;Nativa;Rara;46
+45;1;Animalia;Chordata;Amphibia;Anura;Calyptocephalellidae;Calyptocephalella;Calyptocephalella gayi;Rana chilena;Nativa;Vulnerable (VU);38
+3353;1;Animalia;Chordata;Amphibia;Anura;Calyptocephalellidae;Calyptocephalella;Calyptocephalella gayi;;Nativa;;3
+5413;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus altor;Rana de hojarasca de Oncol;Nativa;En Peligro (EN);48
+656;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus calcaratus;Sapo;Nativa;Preocupación menor (LC);52
+46;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus contulmoensis;Sapo de Contulmo;Nativa;En Peligro (EN);47
+657;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus emiliopugini;Rana de hojarasca de párpados verdes;Nativa;Preocupación menor (LC);56
+47;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus insularis;Sapo de Isla Mocha;Nativa;En Peligro (EN), Rara;61
+48;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus migueli;Sapo de Miguel;Nativa;En Peligro (EN), Rara;61
+49;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus nahuelbutensis;Sapo de Nabuelbuta;Nativa;En Peligro (EN), Rara;48
+658;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus roseus;Sapo;Nativa;Vulnerable (VU);51
+2845;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus septentrionalis;Ranita de Los Queules;Nativa;En Peligro (EN);38
+659;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Eupsophus;Eupsophus vertebralis;Sapo;Nativa;Vulnerable (VU);47
+50;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Hylorina;Hylorina sylvatica;Sapo esmeralda de la selva;Nativa;Preocupación menor (LC);51
+51;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Insuetophrynus;Insuetophrynus acarpicus;Sapo de Mehuín;Nativa;En Peligro (EN), Rara;62
+655;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Nannophyne;Nannophyne variegata;Sapo variegado;Nativa;Preocupación menor (LC);49
+660;1;Animalia;Chordata;Amphibia;Anura;Leiuperidae;Pleurodema;Pleurodema bufonina;Sapo de cuatro ojos del sur;Nativa;Casi amenazada (NT);56
+52;1;Animalia;Chordata;Amphibia;Anura;Leiuperidae;Pleurodema;Pleurodema marmorata;Sapo de cuatro ojos marmóreo;Nativa;En Peligro (EN), Rara;54
+661;1;Animalia;Chordata;Amphibia;Anura;Leiuperidae;Pleurodema;Pleurodema thaul;Sapito de cuatro ojos;Nativa;Casi amenazada (NT);64
+651;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Rhinella;Rhinella arunco;Sapo de rulo;Nativa;Vulnerable (VU);57
+652;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Rhinella;Rhinella atacamensis;Sapo de Atacama;Nativa;Vulnerable (VU);53
+653;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Rhinella;Rhinella rubropunctata;Sapo;Nativa;Vulnerable (VU);54
+654;1;Animalia;Chordata;Amphibia;Anura;Bufonidae;Rhinella;Rhinella spinulosa;Sapo espinoso;Nativa;Preocupación menor (LC);60
+54;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Rhinoderma;Rhinoderma darwini;Ranita de Darwin;Nativa;En Peligro (EN);67
+55;1;Animalia;Chordata;Amphibia;Anura;Cycloramphidae;Rhinoderma;Rhinoderma rufum;Sapito vaquero;Nativa;En peligro crítico (CR);63
+2918;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius chusmisensis;Sapo;Nativa;En peligro crítico (CR);47
+662;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius dankoi;Sapo de Danko;Nativa;En peligro crítico (CR);51
+663;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius fronteriensis;Sapo de la frontera;Nativa;En peligro crítico (CR);47
+57;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius halli;Sapo de Hall;Nativa;En peligro crítico (CR);52
+664;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius marmoratus;Sapo;Nativa;Vulnerable (VU);62
+59;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius pefauri;Sapo de Pefaur;Nativa;En Peligro (EN), Rara;36
+60;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius peruvianus;Sapo peruano;Nativa;En Peligro (EN), Rara;36
+665;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius phillipii;Sapo de Phillippi;Nativa;En Peligro (EN);26
+4458;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius vilamensis;Rana de Vilama;Nativa;En peligro crítico (CR);53
+61;1;Animalia;Chordata;Amphibia;Anura;Ceratophrydae;Telmatobius;Telmatobius zapahuirensis;Sapo de Zapahuira;Nativa;En Peligro (EN), Rara;34
+63;1;Animalia;Chordata;Amphibia;Anura;Calyptocephalellidae;Telmatobufo;Telmatobufo bullocki;Sapo de Bullock;Nativa;Rara, Vulnerable (VU);36
+5433;1;Animalia;Chordata;Amphibia;Anura;Calyptocephalellidae;Telmatobufo;Telmatobufo ignotus;Rana montana de Los Queules;Nativa;En Peligro (EN);47
+64;1;Animalia;Chordata;Amphibia;Anura;Calyptocephalellidae;Telmatobufo;Telmatobufo venustus;Sapo hermoso;Nativa;En Peligro (EN);39
+143;1;Animalia;Chordata;Amphibia;Anura;Pipidae;Xenopus;Xenopus laevis;Rana Africana;Exótica;;53
