@@ -27,29 +27,27 @@
         }
 
         function draw() {
-            background(250,241,182);
- 
-        var eso=1;
-        var cont=0;
-        var ende=0;
+        background(250,241,182);
+        fill(61,79,13);
+            textSize(26);
+            text("Endémicos",20,30);
+            fill(153,76,0);
+            text("No Endémicos",200,30);
+            
         for(a=0;a<58;a++){
-            if(data[a].nombre_vulgar){
-                eso++;
-                cont++;
-                if(data[a].endemismo){
-                    ende++;
-                    textSize(25);
-                    fill(0,81,5);
-                    text(data[a].nombre_vulgar,(height/4), ((height/4)*eso)/5);
+            if(data[a].endemismo){
+                fill(61,79,13);
+                ellipse(random(30,width-30),random(50,(height-30)),20,20);
+            
                 }else{
-                    textSize(15);
-                    fill(0);
-                    text(data[a].nombre_vulgar,(height/4)*5, ((height/4)*eso)/5);
+                    
+                    fill(153,76,0);
+                    noStroke();
+                    ellipse(random(20,width-30),random(50,(height-30)),20,20);
                 }  
             }
-        }
-        ellipse(((windowWidth/6)*1),190,10,10);
-        text (ende,300, 300 );
+        
+
     
   }
 
