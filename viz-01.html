@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <title>Primera</title>
+   </head>
+   <body>
+      <!--Nada más que p5.js para dibujar en el body de esta página-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+      <script>
+        
+var porregion = [8,6,8,4,6,7,10,8,19,18,21,18,17,17,8];
+         
+         
+         function setup(){
+           var canvas = createCanvas(windowWidth,500);
+           canvas.position(0,0);
+           noStroke();
+           smooth();
+           noLoop();
+           console.log(porregion);
+         }
+          
+         function draw(){
+           background(236,228,191); 
+
+        for (var a = 0; a < 15; a++) {
+            fill(87,112,18);
+            textSize(10);
+            if(a==0){
+               text(".\nXV",((windowWidth/16)*(a+1)),height/2)
+               }
+            else if(a==1){
+                   text(".\nI",((windowWidth/16)*(a+1)),height/2)
+               }
+            else if(a==2){
+                    text(".\nII",((windowWidth/16)*(a+1)),height/2)
+                    }    
+            else if(a==3){
+                   text(".\nIII",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==4){
+                    text(".\nIV",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==5){
+                   text(".\nV",((windowWidth/16)*(a+1)),height/2)
+               }
+            else if(a==6){
+                    text(".\nRM",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==7){
+                    text(".\nVI",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==8){
+                    text(".\nVII",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==9){
+                    text(".\nVIII",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==10){
+                    text(".\nIX",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==11){
+                    text(".\nXIV",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==12){
+                    text(".\nX",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==13){
+                    text(".\nXI",((windowWidth/16)*(a+1)),height/2)
+                }
+            else if(a==14){
+                    text(".\nXII",((windowWidth/16)*(a+1)),height/2)
+                }
+               
+            fill(87,112,18,70);
+            ellipse(((windowWidth/16)*(a+1)),height/3,8*(porregion[a]),8*(porregion[a]));
+                fill(66,60,46);
+                textAlign(CENTER);
+                textSize(20);
+                text(porregion[a],((windowWidth/16)*(a+1)),height/2.89)
+                ellipse();
+             
+        }}
+         function windowResized() {
+           resizeCanvas(windowWidth, 500);
+         }   
+      </script>
+   </body>
+</html>

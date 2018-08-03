@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+<title>Primera</title>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+<script>
+// declaro una variable fuera de todo (preload, setup, draw, windowResized), de esa manera puedo usarla dentro de todo. Si la creo dentro de un contexto particular, funcionará allí no más. 
+
+   var cledo = {
+    bufonidae: 5,
+    calyptocephalellidae: 4,
+    ceratophryidae:17,
+    cycloramphidae:28,
+    leiuperidae: 3
+   }
+   
+function setup(){
+  var canvas = createCanvas(windowWidth,500);
+  canvas.position(0,0)
+  noStroke();
+  smooth();
+}
+
+function draw(){
+   background(220,204,126);
+    
+      fill(109, 141, 23);
+      ellipse(((windowWidth/6)*1),190,(cledo.bufonidae*10),(cledo.bufonidae*10));
+      textAlign(CENTER);
+      fill(220,204,126);
+      textSize(cledo.bufonidae*4);
+      text(cledo.bufonidae, ((windowWidth/6)*1), 198);
+      textSize(15);
+      fill(109, 141, 23);
+      text("Cledo Bufonidae",((windowWidth/6)*1),310);
+    
+       
+      fill(132,170,27);
+      ellipse(((windowWidth/6)*2),190,(cledo.calyptocephalellidae*10),(cledo.calyptocephalellidae*10));
+      textAlign(CENTER);
+      fill(220,204,126);
+      textSize(cledo.calyptocephalellidae*4);
+      text(cledo.calyptocephalellidae, ((windowWidth/6)*2), 196);
+      textSize(15);
+      fill(132,170,27);
+      text("Cledo Calyptocephalellidae",((windowWidth/6)*2),310);
+      
+ 
+      fill(95,123,20);
+      ellipse(((windowWidth/6)*3),190,(cledo.ceratophryidae*7),(cledo.ceratophryidae*7));
+      textAlign(CENTER);
+      fill(220,204,126);
+      textSize(cledo.ceratophryidae*4);
+      text(cledo.ceratophryidae, ((windowWidth/6)*3), 215);
+      textSize(15);
+      fill(95,123,20);
+      text("Cledo Ceratophryidae",((windowWidth/6)*3),310);
+ 
+        
+      fill(61,79,13);
+      ellipse(((windowWidth/6)*4),190,(cledo.cycloramphidae*7),(cledo.cycloramphidae*7));
+      textAlign(CENTER);
+      fill(220,204,126);
+      textSize(cledo.cycloramphidae*4);
+      text(cledo.cycloramphidae, ((windowWidth/6)*4), 220);
+      textSize(15);
+      fill(61,79,13);
+      text("Cledo Cycloramphidae",((windowWidth/6)*4),310);
+    
+      fill(144,186,30);
+      ellipse(((windowWidth/6)*5),190,(cledo.leiuperidae*10),(cledo.leiuperidae*10));
+      textAlign(CENTER);
+      fill(220,204,126);
+      textSize(cledo.leiuperidae*4);
+      text(cledo.leiuperidae, ((windowWidth/6)*5), 195);
+      textSize(15);
+      fill(144,186,30);
+      text("Cledo  Leiuperidae",((windowWidth/6)*5),310);
+} 
+function windowResized() {
+  resizeCanvas(windowWidth, 500);
+}   
+</script>
+</body>
+</html>
